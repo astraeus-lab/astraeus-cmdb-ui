@@ -1,2 +1,4 @@
-# astraeus-cmdb-ui
-Astraeus-CMDB project web UI
+
+# Astraeus-CMDB-UI
+
+Astraeus-CMDB project web UI.
